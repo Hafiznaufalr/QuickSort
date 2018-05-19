@@ -1,0 +1,6 @@
+D:\TUGAS\exp\Quick Sort\bin\Debug\Quick Sort.exe.config
+D:\TUGAS\exp\Quick Sort\bin\Debug\Quick Sort.exe
+D:\TUGAS\exp\Quick Sort\bin\Debug\Quick Sort.pdb
+D:\TUGAS\exp\Quick Sort\obj\Debug\Quick Sort.csprojResolveAssemblyReference.cache
+D:\TUGAS\exp\Quick Sort\obj\Debug\Quick Sort.exe
+D:\TUGAS\exp\Quick Sort\obj\Debug\Quick Sort.pdb
